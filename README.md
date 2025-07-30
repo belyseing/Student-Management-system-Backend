@@ -142,4 +142,4 @@ Thunder Client (VS Code)
 MIT
 
 ## 👤 Author
-Iris Credot Teta – tetairiscredot@gmail.com
+Ingabire Belyse – belyseing@gmail.com
