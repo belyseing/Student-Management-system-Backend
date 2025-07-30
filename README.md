@@ -1,10 +1,10 @@
-# 🎓 Student Management System Backend
+# Student Management System Backend
 
 This is a Node.js and Express-based backend API for managing users and students. It supports user authentication, student records management, role-based access control, and MongoDB as the database.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration and login with JWT authentication
 - Admin-only student management (CRUD operations)
@@ -14,10 +14,10 @@ This is a Node.js and Express-based backend API for managing users and students.
 - Swagger integration for API documentation (optional)
 
 ---
-## 🧰 Swagger Documentation
+##  Swagger Documentation
 Link– [Swagger_Documentation](https://student-management-system-backend-xq64.onrender.com/studentSwagger/)
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express
@@ -29,7 +29,7 @@ Link– [Swagger_Documentation](https://student-management-system-backend-xq64.o
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 ├── Controllers/
 
