@@ -15,7 +15,7 @@ This is a Node.js and Express-based backend API for managing users and students.
 
 ---
 ## 🧰 Swagger Documentation
-Link– [Swagger_Documentation](https://student-management-systembackend.onrender.com/studentSwagger/)
+Link– [Swagger_Documentation](https://student-management-system-backend-xq64.onrender.com/studentSwagger/)
 
 ## 🧰 Technologies Used
 
