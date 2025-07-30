@@ -65,7 +65,7 @@ Link– [Swagger_Documentation](https://student-management-system-backend-xq64.o
 ### 1. Clone the Repository
 
 
-git clone https://github.com/iris-credot/Student-Management-SystemBackend.git
+git clone https://github.com/belyseing/Student-Management-system-Backend.git
 
 cd Student-Management-SystemBackend
 
@@ -90,7 +90,7 @@ npm start
 
 
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Auth Routes (/api/auth)
 
@@ -100,7 +100,7 @@ POST /login – Login and receive token
 
 POST /logout – Logout user
 
-### 👤 User Routes (/api/users)
+###  User Routes (/api/users)
 
 GET /me – Get logged-in user profile
 
@@ -108,7 +108,7 @@ PUT /me – Update own profile
 
 PUT /role/:id – Admin only: Update user role
 
-### 🎓 Student Routes (/api/students)
+###  Student Routes (/api/students)
 
 GET / – Admin only: Get all students
 
@@ -122,7 +122,7 @@ DELETE /:id – Admin only: Delete student
 
 
 
-## 🔒 Role-Based Access
+## Role-Based Access
 Endpoint	      Access
 
 /api/auth/* 	  Public
@@ -132,14 +132,14 @@ Endpoint	      Access
 /api/students/*	  Admin Only
 
 
-## 🧪 Testing (Recommended Tools)
+##  Testing (Recommended Tools)
 Postman
 
 Thunder Client (VS Code)
 
 
-## 📝 License
+##  License
 MIT
 
-## 👤 Author
+##  Author
 Ingabire Belyse – belyseing@gmail.com
