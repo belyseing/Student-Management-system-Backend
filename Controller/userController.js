@@ -73,7 +73,7 @@ const userController ={
  
   // Prepare email body
   const emailBody = `
-    Welcome to EduTrack!
+    Welcome to SMS!
 
     Your OTP verification is: ${otp}
 
@@ -82,12 +82,12 @@ const userController ={
     If you did not request this, please ignore this email.
 
     Best regards,
-    EduTrack Team
+    SMS Team
   `;
 
   try {
     // Send OTP email
-    await sendEmail(emaill, 'EduTrack:Verify your account', emailBody);
+    await sendEmail(emaill, 'SMS:Verify your account', emailBody);
     console.log('Verification email sent successfully');
   } catch (emailError) {
     console.error('Failed to send verification email:', emailError.message);
